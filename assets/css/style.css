@@ -1,0 +1,25 @@
+.form {width: 700px; 
+height: 400px; 
+background-color:#9add9f;
+border-radius: 10px; 
+border-color: black; 
+border-style: double;}
+#knopka {
+    background-color: #b6f6bb;
+    border-color: black;
+}
+h1 {
+    color: #48a357;
+}
+.converter-form {
+    background-color: #84ce8a;
+    height: 100vh;
+}
+
+
+#az {
+margin-right: 10px;
+height: 30px;
+border-radius: 0px;
+border-color: #48a357;
+}
